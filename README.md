@@ -12,6 +12,8 @@
 
 
 ### 整站Demo
-在线浏览：[在线浏览]()
+在线浏览：[在线浏览](http://xifengxx.github.io/project2/)
 视频地址：[在线视频](http://www.imooc.com/learn/100)
-下载地址：[下载]()
+下载地址：[下载](https://github.com/xifengxx/project2)
+**备注：**
+在线浏览文件，请切换到gh-pages分支下浏览。
