@@ -1,19 +1,19 @@
-## 案例5：电商网站布局
+## 案例6：基于Bootstrap的网站开发
 
-### 电商网站布局
-包括首页、产品分类页、产品筛选页、产品详情页、购物车和结算页面。
+### 基于Bootstrap的网站开发
+Bootstrap是Twitter推出的一个开源的用于前端开发的工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架，提供了优雅的HTML和CSS规范，并基于jQuery开发了丰富的Web组件。
+
+本例基于Bootstrap框架，设计网站单页。
 
 ### 涉及知识点
-1. HTML + CSS 基本知识
-2. 焦点图制作
-3. 导航栏、菜单栏等布局
-4. 整站开发及编写代码规范
-5. 浏览器兼容(IE6/IE7/IE8)常规处理
+1. Bootstrap框架的使用及代码修改
+2. 利用Bootstrap制作响应式网页布局
+3. Bootstrap相关组件(Carousel/Tab/Modal/Dropdown)的运用。
+
 
 
 ### 整站Demo
 在线浏览：[在线浏览](http://xifengxx.github.io/project2/)
-视频地址：[在线视频](http://www.imooc.com/learn/100)
-下载地址：[下载](https://github.com/xifengxx/project2)
+视频地址：[在线视频](http://www.imooc.com/learn/182)
+下载地址：[下载](https://github.com/xifengxx/project2/tree/gh-pages2)
 **备注：**
-在线浏览文件，请切换到gh-pages分支下浏览。
